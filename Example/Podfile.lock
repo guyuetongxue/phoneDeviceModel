@@ -1,0 +1,16 @@
+PODS:
+  - phoneDeviceModel (0.0.1)
+
+DEPENDENCIES:
+  - phoneDeviceModel (from `../`)
+
+EXTERNAL SOURCES:
+  phoneDeviceModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  phoneDeviceModel: 15a7c2ac347d1ffed24c761f02dae510b049c17d
+
+PODFILE CHECKSUM: 922200a00d07c1ad79a0ccf0dfe8afca6f974cd7
+
+COCOAPODS: 1.6.1
